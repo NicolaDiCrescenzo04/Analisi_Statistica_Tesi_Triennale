@@ -8,7 +8,7 @@ L'obiettivo è determinare come fattori quali la leva finanziaria e la liquidit�
 ## 2. Metodologia
 A differenza dello studio originale che utilizza un singolo anno e modelli DEA/Tobit, questo progetto adotta un approccio semplificato e robusto:
 - **Campione**: Aziende quotate USA nei settori Software e Hardware.
-- **Arco Temporale**: Media dei dati 2021-2025 per eliminare distorsioni annuali.
+- **Arco Temporale**: Media dei dati 2020-2024 per eliminare distorsioni annuali.
 - **Modello Statistico**: Regressione Lineare Multipla (OLS).
 - **Variabili**:
   - **Dipendente (Y)**: Redditività (ROE o ROA).
