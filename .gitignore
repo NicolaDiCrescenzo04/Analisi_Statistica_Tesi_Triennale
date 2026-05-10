@@ -1,3 +1,4 @@
 *.csv
 .DS_Store
-statistica_descrittiva_export
+*.tex
+*.png
